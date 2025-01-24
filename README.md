@@ -15,8 +15,8 @@ Neste momento esta aplicação implementa as seguintes operações:
 - conversão de temperaturas
     - celsius :arrow_right: fahrenheit
     - fahrenheit :arrow_right: celsius
-- conversão de distrâncias
-    - metroa :arrow_right: milhas
+- conversão de distâncias
+    - metros :arrow_right: milhas
     - milhas :arrow_right: metros
 
 ## Tecnologias utilizadas neste projeto
